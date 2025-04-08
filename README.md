@@ -1,1 +1,1 @@
-# YouTube_Archive_Bot
+# yt-archive-bot
